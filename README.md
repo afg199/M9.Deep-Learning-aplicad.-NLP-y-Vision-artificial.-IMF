@@ -97,15 +97,17 @@ Igualmente, los modelos del uno al cinco han de implementarse desde Keras; si el
 Al finalizar el ejercicio se mostrará una gráfica comparativa como la siguiente sobre el validation accuracy, obtenido por los modelos:
 
 
+![cp1](https://github.com/user-attachments/assets/d4153b88-3c50-4df8-b962-3fa1c59de462)
 
-cp1.png
+
 
 
 Y una tabla comparativa como la siguiente con el resultado de la función evaluate en test de todos los modelos:
 
 
+![cp2](https://github.com/user-attachments/assets/39112a6e-5586-4c9d-b749-3cfa1a31f99e)
 
-cp2.png
+
 
 
 Nota:
